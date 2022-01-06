@@ -1102,6 +1102,11 @@ a {
   margin-top:10px;
 }
 
+.sale-button {
+  background-color:#00d092;
+  margin-top:-15px;
+}
+
 @media screen and (max-width: 991px) {
   li {
     margin-left: -20px;
@@ -1496,6 +1501,10 @@ a {
 }
 
 @media screen and (max-width: 479px) {
+  .sale-button {
+    margin-top:-35px;
+  }
+
   .page-wrapper {
     font-size: 16px;
   }
