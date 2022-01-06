@@ -1691,7 +1691,7 @@ a {
   }
 
   .token-marquee {
-    display: block;
+    display: inline-block;
     width: 150px;
     margin-right: 0px;
     -webkit-box-flex: 0;
